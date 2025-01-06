@@ -1,4 +1,5 @@
 # harsha
-This is our minor project.
+This is the starting of 
+our minor project.
 <br>
 Participants-Abhishek,Alina,Asmi,Shruti
